@@ -4,6 +4,14 @@
        {
            "src": "./index.py",
            "use": "@vercel/python"
+       },
+       {
+            "src": "./flask.py",
+            "use": "@vercel/python"
+       },
+       {
+            "src": "./django.py",
+            "use": "@vercel/python"
        }
    ],
    "routes": [
